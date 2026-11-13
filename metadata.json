@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Seru di Dunia Ekosistem",
+  "description": "Media pembelajaran interaktif berbasis game untuk IPAS Kelas 3 SD tentang Ekosistem dan Simbiosis bersama Kiki si Kupu-Kupu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
